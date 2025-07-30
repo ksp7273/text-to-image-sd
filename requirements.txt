@@ -1,0 +1,7 @@
+torch
+diffusers
+transformers
+datasets
+gradio
+accelerate
+scipy
